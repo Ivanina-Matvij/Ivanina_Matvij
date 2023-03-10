@@ -1,4 +1,6 @@
-/**
+package Task1;
+
+/*
 * Print command-line parameters.
 */
 public class Main {
