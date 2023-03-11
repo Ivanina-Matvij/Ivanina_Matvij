@@ -21,4 +21,9 @@
 
 ## Результат:
 
-<img src="" />
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/ed85c53382b9fd0ff6ef485b0f0e225be58310fe/Image/Task2.png" />
+
+## Обчислення:
+
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/936ae2d559f64e717c4f3bfe79d3f8da6813cf2c/Image/Task2.2.png" />
+
