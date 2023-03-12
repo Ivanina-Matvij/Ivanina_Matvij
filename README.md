@@ -4,6 +4,7 @@
 + [TASK2](#Task2)
 + [TASK3](#Task3)
 + [TASK4](#Task4)
++ [TASK5](#Task5)
 ---
 ## Task1
 Завдання: 
@@ -94,3 +95,9 @@
 ## Новий файл BaseSequenceLengthCalculator:
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/e755aef48856d3d6e393e380772bd042a4e78e12/Image/Task4(BaseS).png" />
+
+# Task5
+
+## Результат: 
+
+
