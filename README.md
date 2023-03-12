@@ -3,6 +3,7 @@
 + [TASK1](#Task1)
 + [TASK2](#Task2)
 + [TASK3](#Task3)
++ [TASK4](#Task4)
 ---
 ## Task1
 Завдання: 
