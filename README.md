@@ -29,6 +29,8 @@
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/3d28603561a1b6a66f6ca871f21222e6e54a3be3/Image/Desktop-screenshot%20(5).png" />
 
++ [Main](#Ivanina_Matvij)
+
 # Task2
 
 ### Завдання:
@@ -53,6 +55,8 @@
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/936ae2d559f64e717c4f3bfe79d3f8da6813cf2c/Image/Task2.2.png" />
 
++ [Main](#Ivanina_Matvij)
+
 ## Task3
 
 ### Завдання:
@@ -74,6 +78,8 @@
 ## Файли для автоматизації:
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/f8a1fd3daadb4d0d5565860946acf3ff80b0c1cb/Image/Task3(FactoryMethod).png" />
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/f8a1fd3daadb4d0d5565860946acf3ff80b0c1cb/Image/Task3(ReturnNewFact).png" />
+
++ [Main](#Ivanina_Matvij)
 
 # Task4
 
@@ -98,6 +104,8 @@
 ## Новий файл BaseSequenceLengthCalculator:
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/e755aef48856d3d6e393e380772bd042a4e78e12/Image/Task4(BaseS).png" />
+
++ [Main](#Ivanina_Matvij)
 
 # Task5
 
