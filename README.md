@@ -136,12 +136,14 @@
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/260a290ac35c1c06ac6aad47f1d3281ca3c39af1/Image/Task6.png" />
 
 ## Файли:
-1. ### Main:
+### 1. ### Main:
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20Main.png" />
-2. ### ParallelProcessingDemo:
+
+### 2. ### ParallelProcessingDemo:
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20Parallel.png" />
-3. ### WorkerThread:
+
+### 3. ### WorkerThread:
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20WorkerThread.png" />
