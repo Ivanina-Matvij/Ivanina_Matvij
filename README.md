@@ -4,9 +4,12 @@
 + [TASK2](#Task2)
 + [TASK3](#Task3)
 + [TASK4](#Task4)
++ [TASK5](#Task5)
++ [TASK6](#Task6)
 ---
 ## Task1
-Завдання: 
+
+### Завдання: 
 1. Підготувати сховище до розміщення проекту
 2. Написати просту консольну програму (наприклад вивід на екран аргументів командної строки)
 3. В особистому кабінеті на сайті gitlab.com отримати адресу доступу до сховища
@@ -27,8 +30,11 @@
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/3d28603561a1b6a66f6ca871f21222e6e54a3be3/Image/Desktop-screenshot%20(5).png" />
 
++ [Main](#Ivanina_Matvij)
+
 # Task2
-Завдання:
+
+### Завдання:
 1. Розробити клас, що серіалізується, для зберігання параметрів і результатів
 обчислень.
 Використовуючи агрегування, розробити клас для знаходження рішення
@@ -50,8 +56,11 @@
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/936ae2d559f64e717c4f3bfe79d3f8da6813cf2c/Image/Task2.2.png" />
 
++ [Main](#Ivanina_Matvij)
+
 ## Task3
-Завдання:
+
+### Завдання:
 1. Як основа використовувати вихідний текст проекту попередньої лабораторної роботи. Забезпечити розміщення результатів обчислень уколекції з можливістю збереження/відновлення.
 2. Використовуючи шаблон проектування Factory Method (Virtual Constructor), розробити ієрархію, що передбачає розширення рахунок додавання
 нових відображуваних класів.
@@ -71,9 +80,11 @@
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/f8a1fd3daadb4d0d5565860946acf3ff80b0c1cb/Image/Task3(FactoryMethod).png" />
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/f8a1fd3daadb4d0d5565860946acf3ff80b0c1cb/Image/Task3(ReturnNewFact).png" />
 
++ [Main](#Ivanina_Matvij)
+
 # Task4
 
-Завдання:
+### Завдання:
 1.За основу використовувати вихідний текст проекту попередньої лабораторної роботи Використовуючи шаблон проектування Factory Method
 (Virtual Constructor), розширити ієрархію похідними класами, реалізують методи для подання результатів у вигляді текстової
 таблиці. Параметри відображення таблиці мають визначатися користувачем.
@@ -94,3 +105,45 @@
 ## Новий файл BaseSequenceLengthCalculator:
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/e755aef48856d3d6e393e380772bd042a4e78e12/Image/Task4(BaseS).png" />
+
++ [Main](#Ivanina_Matvij)
+
+# Task5
+
+### Завдання:
+
+1. Реалізувати можливість скасування (undo) операцій (команд).
+2. Продемонструвати поняття "макрокоманда"
+3. При розробці програми використовувати шаблон Singletone.
+4. Забезпечити діалоговий інтерфейс із користувачем.
+5. Розробити клас для тестування функціональності програми.
+
+## Результат: 
+
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/7394302bfab2354bd18f14ba03d2bff86233bcef/Image/Task5(Result).png" />
+
+## Main:
+
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/e8f3ecb2752fb493a1149bf1e16006b1ff0eed42/Image/Desktop-screenshot%20(7).png" />
+
+# Task6
+
+### Завдання:
+1. Продемонструвати можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо).
+2. Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.
+
+## Результат:
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/260a290ac35c1c06ac6aad47f1d3281ca3c39af1/Image/Task6.png" />
+
+## Файли:
+### 1. Main:
+
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20Main.png" />
+
+### 2. ParallelProcessingDemo:
+
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20Parallel.png" />
+
+### 3. WorkerThread:
+
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20WorkerThread.png" />
