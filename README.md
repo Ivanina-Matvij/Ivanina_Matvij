@@ -5,6 +5,7 @@
 + [TASK3](#Task3)
 + [TASK4](#Task4)
 + [TASK5](#Task5)
++ [TASK6](#Task6)
 ---
 ## Task1
 
@@ -124,3 +125,20 @@
 ## Main:
 
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/e8f3ecb2752fb493a1149bf1e16006b1ff0eed42/Image/Desktop-screenshot%20(7).png" />
+
+# Task6
+
+### Завдання:
+1. Продемонструвати можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо).
+2. Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.
+
+## Результат:
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/260a290ac35c1c06ac6aad47f1d3281ca3c39af1/Image/Task6.png" />
+
+## Файли:
+1. ### Main:
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20Main.png" />
+2. ### ParallelProcessingDemo:
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20Parallel.png" />
+3. ### WorkerThread:
+<img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20WorkerThread.png" />
