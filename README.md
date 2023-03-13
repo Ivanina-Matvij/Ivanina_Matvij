@@ -137,8 +137,11 @@
 
 ## Файли:
 1. ### Main:
+
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20Main.png" />
 2. ### ParallelProcessingDemo:
+
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20Parallel.png" />
 3. ### WorkerThread:
+
 <img src="https://github.com/Ivanina-Matvij/Ivanina_Matvij/blob/699faaecc26ec0f426b879e39df770b0c97e4181/Image/Task6%20WorkerThread.png" />
